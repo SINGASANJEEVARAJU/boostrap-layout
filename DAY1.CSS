@@ -1,0 +1,19 @@
+.flex{
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-around;
+}
+.btn1{
+    display: flex;
+    
+}
+.button{
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    align-items: center;
+    margin-right:500px ;
+}
+.btn2{
+   width: 400px;
+}
